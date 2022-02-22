@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen at Hampton-Court, May the 12th, 1689 by Robert Brograve ...</title>
+            <author>Brograve, Robert, b. 1656 or 7.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29614</idno>
+            <idno type="STC">Wing B4841</idno>
+            <idno type="STC">ESTC R4264</idno>
+            <idno type="EEBO-CITATION">13678720</idno>
+            <idno type="OCLC">ocm 13678720</idno>
+            <idno type="VID">101274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 836:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen at Hampton-Court, May the 12th, 1689 by Robert Brograve ...</title>
+                  <author>Brograve, Robert, b. 1656 or 7.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: Mr. Brograve's sermon preached before the King and Queen at Hampton-Court.</note>
+                  <note>"Published by Her Majesty's special command."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew V, 16 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101274:1"/>
+            <pb facs="tcp:101274:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the KING and QUEEN AT Hampton-Court, <hi>MAY</hi> the 12th. 1689. By <hi>ROBERT BROGRAVE,</hi> M. A. Chaplain in Ordinary to Their Majeſties. <hi>Publiſhed by Her Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Rogers,</hi> at the <hi>Sun</hi> over againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleet-ſtreet.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:101274:2"/>
+            <p>Mr. <hi>BROGRAVE</hi>'s SERMON Preached before the KING and QUEEN AT <hi>HAMPTON-CO<g ref="char:V">Ʋ</g>RT.</hi>
+            </p>
+            <pb facs="tcp:101274:3"/>
+            <pb facs="tcp:101274:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101274:4"/>
+            <pb n="1" facs="tcp:101274:4"/>
+            <head>A SERMON Preach'd before the King and Queen At Hampton-Court.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATTH. V. xvi.</hi>
+                  </bibl>
+                  <p>Let your Light ſo ſhine before Men, that they may ſee your good Works, and glo<g ref="char:EOLhyphen"/>rifie your Father which is in Heaven.</p>
+               </q>
+            </epigraph>
+            <p>THESE words are part of our Savi<g ref="char:EOLhyphen"/>our's Sermon upon the Mount, and if you pleaſe to caſt your Eye from the 13th. Verſe to the 16th. which I have here choſe, you may obſerve they make up one Section of that Sermon, and carry an entire ſenſe within themſelves.</p>
+            <pb n="2" facs="tcp:101274:5"/>
+            <p>'Tis at the 13th. Verſe, <hi>Ye are the Salt of the Earth, (i. e.)</hi> the Chriſtian ought to have thoſe uſeful and beneficial qualities of Salt, as it ſeaſoneth and gives a grateful reliſh, and pre<g ref="char:EOLhyphen"/>ſerves thoſe things 'tis mixt with; ſo the Chri<g ref="char:EOLhyphen"/>ſtian, by the vertues of a good Life, muſt be a means of preſerving thoſe about him, to keep them from Corruption and periſhing by Sin.</p>
+            <p>At the 14th. Verſe, tis, <hi>Ye are the light of the World: A City that is ſet on an Hill, cannot be hid.</hi> Signifying that height and eminency of the Chriſtian's Vertue, which as the Sun that enlightens dark places, muſt guide ſuch as are in Ignorance; both their Knowledge and good Lives muſt be inſtrumental to bring Men to the Goſpel, and to recover them from that Dark<g ref="char:EOLhyphen"/>neſs that over-ſpreads the Minds of Men.</p>
+            <p>At the 15th. he is compared to <hi>A Candle ſet on a Candleſtick, and it giveth light to all that are in the Houſe:</hi> He is not to be a private and ſolitary Profeſſor, but the Advantages of his Gifts and Graces muſt extend to others, and be imparted for the benefit of all about him; then follows it in the 16th. Verſe, <hi>Let your light ſo ſhine before men, that they may ſee your good works, and glorifie your Father which is in Heaven.</hi>
+            </p>
+            <pb n="3" facs="tcp:101274:5"/>
+            <p>You now ſee from this part of our Saviour's Sermon, is intimated to us a Duty of ſo Pub<g ref="char:EOLhyphen"/>lick a Nature, as ſeems not confin'd to thoſe Private ends of a Man's own Happineſs, but which is intereſſed in the Common Salvation of thoſe about him. We are to be Vertuous, not for our ſelves only, but that <hi>others may ſee our good works, and glorifie our Father which is in Heaven.</hi> Juſt as one, by whoſe Light the Sea-faring Man is directed through a ſtraight and dangerous Paſſage: Or like the appearance of a Star to the Weather-beaten Mariner; or as the preſence of a ſure Guide to the be<g ref="char:EOLhyphen"/>wilder'd Traveller; or like that Miraculous Pillar of Fire, which ſafely conducted the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> through the unknown and unfrequen<g ref="char:EOLhyphen"/>ted Paſſages of a Wild Deſart; all this is the Chriſtian before us, by whoſe Example Men become acquainted with the way of Vertue, and are able to walk in it, without being miſ<g ref="char:EOLhyphen"/>led into the by-paths of Sin and Folly; an Ex<g ref="char:EOLhyphen"/>ample which becomes of univerſal Benefit.</p>
+            <p>Happy is the Man, who by thus being care<g ref="char:EOLhyphen"/>ful over his own Life, ſhall give Encourage<g ref="char:EOLhyphen"/>ment and Direction to others to be like him, whilſt his good Example ſhall be attended with this Bleſſing, That by <hi>doing thus, he ſhall ſave both himſelf and others.</hi>
+            </p>
+            <pb n="4" facs="tcp:101274:6"/>
+            <p>But alas! I am ſenſible of the diſadvantage I lye under, whilſt I am exhorting you to a Duty, which I am fearful not only exceeds the Practice of the moſt part of Chriſtians, but even their Belief that 'tis abſolutely neceſſary; for if there be few upon whom the Promiſes of the Goſpel ſhall be able to prevail, but few who for their own ſakes will endeavour to be ſaved; what ſhall the number of thoſe be, who act that publick and generous part of Religion, who live well for their Neighbours ſake, as well as their own.</p>
+            <p>So great indeed is the Duty, ſo Divine and Heavenly the Motive, that this paſſage ſeems only ſuited to the perfect and accompliſh'd Chri<g ref="char:EOLhyphen"/>ſtian; and hath been thought by ſome to be<g ref="char:EOLhyphen"/>long only to the Apoſtles, and ſuch who ſuc<g ref="char:EOLhyphen"/>ceeded them in the Offices of Teaching and Inſtructing Men: Indeed our Saviour in this place ſpoke to all the Diſciples in common, and the ſame whom he taught in the verſes before, to be <hi>meek,</hi>
+               <note place="margin">ver. 5, 7, 8, 9.</note> to be <hi>merciful,</hi> to be <hi>pure in heart,</hi> to be <hi>Peace-makers;</hi> the ſame are here taught to be of exemplary Lives to thoſe about them, and not only the Apoſtles; for as yet the Apo<g ref="char:EOLhyphen"/>ſtleſhip, or Solemn Miſſion, and inſtating that Authority on his Diſciples, was not begun at
+<pb n="5" facs="tcp:101274:6"/>the time of Chriſt's Preaching this Sermon, nor till after his Reſurrection, or rather his Aſcen<g ref="char:EOLhyphen"/>ſion; but 'twas to all the Diſciples, to all Chri<g ref="char:EOLhyphen"/>ſtians who undertake to follow Chriſt.</p>
+            <p>Tho' thus much muſt be allowed, that all ſuch who according to the excellence of their Dignity, and their ſtations in the World: All ſuch who have the many Advantages that at<g ref="char:EOLhyphen"/>tend the greatneſs of Fortune and Power, all ſuch whoſe Actions are of great influence upon thoſe beneath them; who do, as 'twere, give Authority to Vertue, by living up to it them<g ref="char:EOLhyphen"/>ſelves; all ſuch are in far greater meaſure con<g ref="char:EOLhyphen"/>cerned in this Argument, and I muſt be par<g ref="char:EOLhyphen"/>don'd, if in this place I purpoſe chiefly to treat of the Subject with reſpect to them, and beg the freedom of offering my thoughts to you, who are ſo eminently concern'd in all the re<g ref="char:EOLhyphen"/>ſpects above-mentioned, promiſing my ſelf with<g ref="char:EOLhyphen"/>all to be thus far uſeful to thoſe below you, as to become your Remembrancer, that not only by your good Government they may live peace<g ref="char:EOLhyphen"/>able Lives, but by your Vertues they may be taught to live in all Godlineſs and Honeſty. <hi>Whilſt your Light ſhall ſo ſhine before Men, that they may ſee your good Works, and glorifie your Father which is in Heaven.</hi>
+            </p>
+            <pb n="6" facs="tcp:101274:7"/>
+            <p>The words are an Exhortation to ſhew forth an Exemplary Vertue, and I will endeavour to enforce it from the four following Argu<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="1">I. From the Excellency of a good Example.</p>
+            <p n="2">II. The Obligation that lies upon all Chri<g ref="char:EOLhyphen"/>ſtians to ſhew it forth in their Lives.</p>
+            <p n="3">III. From that Force and Power which by their good Examples they will have upon Men to make them Vertuous, and to be aſhamed of Sin.</p>
+            <p n="4">IV. And laſtly, From the miſchief of evil Examples, both with relation to Mens ſelves and others.</p>
+            <p>Theſe Particulars will lead me to encourage a good Example in all ſuch whoſe influences are powerful upon thoſe about them, to ſet it before you with its true Advantages, and to ſhew you how far the Bleſſing becomes Publick and Univerſal. 'Tis not to flatter any ones Perſon, but to invite you to it, and to perſwade others to an imitation where-ever they behold it.</p>
+            <p>They lead me further to diſcountenance Sin and Error, eſpecially where it becomes open
+<pb n="7" facs="tcp:101274:7"/>and Notorious, the Scandal it gives the World, the Reproach to Chriſtian Religion, the many occaſions it affords to others to go on in the ſame evil courſe, but (I can ſincerely ſpeak) without cenſuring any Man's Perſon; God knows 'tis for no other deſign, but to remove that ſtumbling-block out of our Brother's way, which is ſo great an Offence, and a Temptation to Sin; and I hope we live not in an Age ſo degenerate, or ſo jealous of themſelves, that we dare not diſcredit Vice, without being thought to Wound ſome body; let it rather be the Glory of great Men, that we may open<g ref="char:EOLhyphen"/>ly make War againſt Vice, as againſt an Enemy, and not of our own Party.</p>
+            <p n="1">1. The firſt Argument whereby I am to per<g ref="char:EOLhyphen"/>ſwade you to this Duty, is from the Excellency of a good Example, and this is in ſome meaſure ſeen if we look upon the many Alluſions in this Parable, as 'tis compared to Light, or to the Sun, what theſe have extraordinary in them, with reſpect to things Natural, and the common Be<g ref="char:EOLhyphen"/>nefit of Mankind, the ſame is a good Example in things Moral and Religious: Hence the <hi>He<g ref="char:EOLhyphen"/>brews</hi> uſed to ſay, <hi>That Wiſe and Good Men were as the Lights of Heaven,</hi> meaning ſuch who were ſo by their Inſtructions and good
+<pb n="8" facs="tcp:101274:8"/>Examples. So <hi>Dan.</hi> 12.3. <hi>They that be wiſe ſhall ſhine as the brightneſs of the Firmament, and they that turn many to Righteouſneſs, as the ſtars for ever and ever.</hi> But I will not inſiſt upon theſe Alluſions, to repreſent it to you, but will rather chooſe to ſhew its Excellency from theſe two Obſervations,</p>
+            <p>From the Uſefulneſs of good Examples to thoſe about them,</p>
+            <p>And from the Reputation they have in the World, even among thoſe who are Enemies to Vertue.</p>
+            <p>Firſt then, Its Excellency appears from the Uſefulneſs of good Examples to thoſe about them, and the manifold good Effects they have among Men. For when Men become Exem<g ref="char:EOLhyphen"/>plary in a courſe of Vertue, they prove the moſt effectual means to direct thoſe that are about them, and that go aſtray. They are as Publick Bleſſings to Inſtruct the World in that way they muſt chooſe, in thoſe Vertues they muſt prctice, in that Religion they muſt ad<g ref="char:EOLhyphen"/>here to. We may have many Ignorant among us, here will they ſee the Paths of Righteouſ<g ref="char:EOLhyphen"/>neſs. We may have many weak and wavering among us, by ſuch Examples will they be con<g ref="char:EOLhyphen"/>firmed and ſetled; we may have many Enemies
+<pb n="9" facs="tcp:101274:8"/>of our Church, they will ſee the Excellency of our Faith, by the Exemplary and Holy Lives of thoſe who profeſs it; theſe are the Fruits that the World will reap, when a viſible and exemplary Piety dwells in it; when every Man ſhall have within his view ſuch who are wor<g ref="char:EOLhyphen"/>thy to be followed, and ſhall be animated to a Conſtancy and Peſeverance in the Duties of Religion, when he ſhall have before him ſuch, whom, ſhould Religion quit the whole World, would yet preſerve it in their own Breaſts.</p>
+            <p>What a Generous deſign then would this be in the Chriſtian, to live well for his Neigh<g ref="char:EOLhyphen"/>bours ſake as well as his own, to be firm to the Truth, that he may be ſecure from Error, to be conſtant and perſevering, that he may become the Preſervative againſt his falling off: This is the Nobleſt ſort of Friendſhip, the great<g ref="char:EOLhyphen"/>eſt Charity; a Charity to the Souls of Men, in preventing them from falling upon Rocks; whilſt Men by their Publick Vertues, reſemble thoſe <hi>Watch-Towers,</hi> which guide Men to ſafe Harbour, but 'tis ſin when it's become open and publick, that like a <hi>Rock</hi> daſhes them in pieces.</p>
+            <p>A <hi>Second</hi> Obſervation that will ſhew us the Excellency of a good Example, is from the
+<pb n="10" facs="tcp:101274:9"/>Reputation it hath among Men, even among thoſe who are Enemies to Vertue. There are hardly any Men but are ſo juſt to Vertue, that how great Strangers ſoever they are to it them<g ref="char:EOLhyphen"/>ſelves, yet they have great Veneration for it in a good Example; ſo that 'twas an ill Cha<g ref="char:EOLhyphen"/>racter in the laſt degree which the Hiſtorian gives of the <hi>Grecian</hi> Court, which ſcoff'd at the good Patriarch <hi>Theodorus, for uſing Good<g ref="char:EOLhyphen"/>neſs, when 'twas out of Faſhion, and for be<g ref="char:EOLhyphen"/>ing vertuous by himſelf.</hi> Such an Example would have ſtruck the Heathen World with de<g ref="char:EOLhyphen"/>light and admiration, who, tho' they cannot be ſuppoſed to have been the greateſt Friends to Vertue, yet they conſtantly employed their Panegyricks upon ſuch who excelled in Good<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Thus thought their Philoſophers who had ſo great an Opinion of Vertue, that they imagined, if it could have been viſibly repreſented to the Eyes of Men, and painted out in its true Colours, and to the Life, 'twould draw all Mankind in admiration after it: That doubt<g ref="char:EOLhyphen"/>leſs which they underſtood by the viſible repre<g ref="char:EOLhyphen"/>ſentation of Vertue, was a compleatly vertu<g ref="char:EOLhyphen"/>ous Example, one that was accompliſh'd in Goodneſs, and void of all mixture of Sin and Evil.</p>
+            <pb n="11" facs="tcp:101274:9"/>
+            <p>'Twas from the Reputation that ſuch Exam<g ref="char:EOLhyphen"/>ples have in the World, that put the Hiſtorian upon the Character of <hi>Marcus Cato,</hi> ſo as to repreſent him a fit Object for the love and de<g ref="char:EOLhyphen"/>light of Mankind.
+<note place="margin">Velleius Pa<g ref="char:EOLhyphen"/>tere.</note> 
+               <q rend="inline">
+                  <hi>Cato</hi> (ſays he) was Vertue drawn to the Life, and ſo exact was the reſemblance, that 'twas hard to ſay, whe<g ref="char:EOLhyphen"/>ther Vertue animated <hi>Cato,</hi> or <hi>Cato</hi> gave life and ſubſiſtance to Vertue; nay, ſuch was the unſhaken greatneſs of his Mind, and the Pu<g ref="char:EOLhyphen"/>rity of his Life, that he ſeemed more to par<g ref="char:EOLhyphen"/>take of Divine Perfections than of Humane Frailty, for he was ſo far above all Tempta<g ref="char:EOLhyphen"/>tions of doing Evil, and alſo free from the Allay of mean ends and deſigns of doing Good, that it ſeem'd a kind of Neceſſity of Nature in him to do well.</q> This was ſuch an Idea of a great Vertue, that however 'twas the Creature only of a warm Fancy and Imagination, and not really viſible in the Per<g ref="char:EOLhyphen"/>ſon, yet it ſerves to ſhew what I have hither<g ref="char:EOLhyphen"/>to urged <hi>(viz.)</hi> the Reputation that Ver<g ref="char:EOLhyphen"/>tuous Examples have among Men, when they think it the beſt way of recommending a Man's Memory to Poſterity, by ſetting him off with the Character of an Illuſtrious Example.</p>
+            <pb n="12" facs="tcp:101274:10"/>
+            <p>I will not ſay more to ſhew you the Excel<g ref="char:EOLhyphen"/>lency of a good Example, poſſibly you may already be ſo far perſwaded of it, that it may prove ſome Advantage to that which I am go<g ref="char:EOLhyphen"/>to ſpeak upon the</p>
+            <p>
+               <hi>Second</hi> Particular, <milestone type="tcpmilestone" unit="unspecified" n="II"/> wherein I am to lay be<g ref="char:EOLhyphen"/>fore you the Obligation that lies upon all Men to ſhew it forth in their Lives.</p>
+            <p>And the force of this Obligation appears from one of the main ends of the Goſpel, which is to raiſe Men to a perfection of Life, as far above the reſt of Mankind, as it exceeds all other Religions of the World in the innocency and purity of its Doctrine, that ſo they may diſpoſe others to think well of that Faith, and be ready to give up their lives to it, and to be guided and influenced by it.</p>
+            <p>'Twas for this reaſon St. <hi>Peter</hi> exhorted his followers to be exemplary, that they might gain ſuch who had lived contrary to the Goſpel, <hi>Having your Converſation honest,</hi>
+               <note place="margin">2. Pet. 2.12.</note> (ſaith he) <hi>that they may by your good works which they ſhall be<g ref="char:EOLhyphen"/>hold, glorifie God in the day of viſitation, (i. e.)</hi> that they may give God the praiſe for ſuch good Examples, whereby they have been con<g ref="char:EOLhyphen"/>verted unto him.</p>
+            <pb n="13" facs="tcp:101274:10"/>
+            <p>For 'twill be natural in Men who are ene<g ref="char:EOLhyphen"/>mies or ſtrangers to the Goſpel, very ſtrictly to obſerve what thoſe Men are who pretend to ſuch an elevated Doctrine beyond other Men, to ſee whether their Lives are rais'd to a height that bears proportion with their Pretences to Religion, and to judge of it by the Fruits it produceth. And therefore 'twas very obſer<g ref="char:EOLhyphen"/>vable in that <hi>Souldier</hi> under <hi>Conſtantine,</hi> who when he was marching with the Army through a City, that had heard they were almoſt ſtarv'd, for want of neceſſary Proviſions, of their own charity they reliev'd them ſpeedily and freely; the <hi>Souldier</hi> was ſurpriz'd at ſo unaskt for a bounty, and enquired what kind of People thoſe were who were ſo extreamly good and chari<g ref="char:EOLhyphen"/>table, he was told they were <hi>Chriſtians,</hi> whoſe profeſſion was to hurt no man, and to do good to every man, the <hi>Souldier</hi> was convinc'd of the excellency of that Religion which produc'd ſuch good and pious People, he preſently became <hi>Chriſtian</hi> at ſo ſenſible a demonſtration, being from hence perſwaded of the Purity of its Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>What but this gave ſuch ſucceſs to St. <hi>John</hi> the <hi>Baptist</hi>'s Miſſion, when he came preaching a Doctrine the World had not before heard
+<pb n="14" facs="tcp:101274:11"/>of, they preſently had recourſe to his Life, found him to be a Man of a ſevere Vertue, of ſtrict Piety, a Pattern of Sanctity and Holineſs, 'twas then they had an opinion of what he taught, and cry'd out he was a Prophet.</p>
+            <p>You therefore, O my <hi>Brethren,</hi> with much eaſe will our Doctrine become fruitful, when the World ſhall have reaſon to approve our Lives; the good Example of the Preacher, is the moſt prevailing Homily, his Life, is his beſt Sermon; for is it to be imagin'd that his Diſcourſe ſhould work more upon another, than himſelf? How ſpecious therefore ſoever may be our Argu<g ref="char:EOLhyphen"/>ments, yet they'l appear Fallacies if they have no Faith with us, nor can we ever perſwade men of the Neceſſity of Temperance, Chaſtity, and the like Chriſtian Vertues, when we who tell men ſo, ſee no need of them our ſelves, but hope to go to Heaven without them; juſt ſo have we ſeen <hi>Statues</hi> in doubtful and uncertain Roads which point out the way to others, with<g ref="char:EOLhyphen"/>out moving themſelves; only let us live up to our Doctrines, and our good Works will con<g ref="char:EOLhyphen"/>vince and perſwade men more then Miracles.</p>
+            <p>But the <hi>Argument</hi> I have hitherto inſiſted upon, lays before you an obligation to become exemplary, which is equally preſſing upon eve<g ref="char:EOLhyphen"/>ry
+<pb n="15" facs="tcp:101274:11" rendition="simple:additions"/>Chriſtian, but there is a <hi>Conſideration</hi> or <hi>two</hi> which I muſt take the freedom to ſpeak of in this place, and which I find my ſelf more con<g ref="char:EOLhyphen"/>cern'd to offer, inaſmuch as you are more eſpe<g ref="char:EOLhyphen"/>cially ingag'd to ſhew forth an excellent Ex<g ref="char:EOLhyphen"/>ample,</p>
+            <p>Both from the Advantages of <hi>Fortune,</hi> of <hi>Power,</hi> and <hi>Authority.</hi>
+            </p>
+            <p>As alſo from the Many powerful Influences you have upon thoſe below you. The</p>
+            <p>
+               <hi>Firſt</hi> Ingagement to it, is from the Advanta<g ref="char:EOLhyphen"/>ges of <hi>Fortune,</hi> of <hi>Power,</hi> and <hi>Authority,</hi> all which will afford the greater opportunities of ſhewing a more excellent Piety, than that of private perſons, ſuch a Piety which ſeems not confin'd to the endeavours of making your ſelves happy, which is the utmoſt that private perſons can attain to, but which gives ſecurity for the common happineſs of thoſe about you, a Piety great to the proportion of your Ta<g ref="char:EOLhyphen"/>lents, <hi>for unto whomſoever much is given,</hi>
+               <note place="margin">Luke 12.48.</note> 
+               <hi>of him ſhall be much required, and to whom men have committed much, of him they will ask the more;</hi> Private Men can only grieve and lament at the Vices of the Age, You may utterly diſcounte<g ref="char:EOLhyphen"/>nance them, may make Vertue graceful, and put Vice into neglect; for Vice hath no force
+<pb n="16" facs="tcp:101274:12"/>or vigour of it ſelf at all, all its ſtrength is from great Examples, who as 'twere put Arms and Weapons into its hands, whereby it conquers and ſubdues the World.</p>
+            <p>Private Men may rejoyce and delight to ſee Vertue flouriſh in our Land, and the utmoſt they can do, is to add one to the number of good Men; You by a Zeal proportion'd to your opportunities may incourage and ſupport it, and by being Examples your ſelves, you will have Multitudes follow after.</p>
+            <p>You are therefore to conſider, that the tem<g ref="char:EOLhyphen"/>poral advantages of life, are not always to be eſteem'd bleſſings, when they are miſus'd they ſerve only to heighten and increaſe that Ac<g ref="char:EOLhyphen"/>count which we muſt all give to God; but would you know when 'tis they deſcend from above, when 'tis that they are truly the gifts of God, and beſtow'd in kindneſs in love and fa<g ref="char:EOLhyphen"/>vour, 'tis when they are imploy'd to God's ſer<g ref="char:EOLhyphen"/>vice. It remaineth therefore that you promote Holineſs in the Court and in our Land; you may ſo far contribute towards it, that when you ſhall advance the Standard of Piety, a nu<g ref="char:EOLhyphen"/>merous train will come in.</p>
+            <p>And that the more from the</p>
+            <p>
+               <hi>Second</hi> Ingagement, to be Exemplary: from
+<pb n="17" facs="tcp:101274:12"/>thoſe powerful Influences you have upon thoſe about you. The <hi>Hiſtorian,</hi>
+               <note place="margin">Vell. Patere.</note> ſpeaking of the Power of Princes, places it chiefly in their Ex<g ref="char:EOLhyphen"/>ample, rather than in an abſolute Command, or in the power of the Sword. <q rend="inline">A good Prince, ſaith he, ſheweth the way of doing well unto his Subjects by well-doing himſelf, and thô he be great in the title of Power, yet he is greater and more potent by the force of Ex<g ref="char:EOLhyphen"/>ample.</q> Conſonant to which was <hi>Plutarchs</hi> obſervation concerning the influence <hi>Caeſar</hi> had upon his Soldiers, that the very ſame Men who when they were in ſervice under other Commanders did not exceed the ordinary rate of Courage, did yet when he led them become irreſiſtably valiant, being animated and inſpired by the Courage and Conduct of that great Man.</p>
+            <p>'Tis the very ſame in Religion; the Actions of private Men are ſeldom known, or but to very few, and when they are, they bear no ſtamp of Authority, and have little impreſſion upon thoſe who regard them; but the good or evil Actions of great Men determine a Nation and People. Thus <hi>Iſrael</hi> fluctuated betwixt Obedience and Idolatry, according to the ſuc<g ref="char:EOLhyphen"/>ceſſion of its Princes, and when <hi>Jereboam</hi> the
+<pb n="18" facs="tcp:101274:13"/>King ſinn'd, he then by his influence and ex<g ref="char:EOLhyphen"/>ample as well as his command made <hi>Iſrael</hi> to ſin too; and were we to look into the <hi>Courts</hi> and <hi>Kingdoms,</hi> that have been eſtabliſht in Righteouſneſs, we need only review the <hi>Chro<g ref="char:EOLhyphen"/>nicle</hi> of <hi>Pious Princes.</hi>
+            </p>
+            <p>Complain not then if you create nor a <hi>New World,</hi> where Righteouſneſs and Truth ſhall inhabit, if Vice be not baniſh'd from the Earth, and Vertue made again to return among Men; upon your influences will depend much of the courſe of this <hi>inferiour World;</hi> if they be good, they will bring Life, and Solace, and Health unto the People. The <hi>Church</hi> therefore ex<g ref="char:EOLhyphen"/>tendeth her hands out to you, and imploreth the aid of your <hi>Authority</hi> and <hi>good Examples:</hi> You are among Men as <hi>Mountains</hi> over <hi>Vallies,</hi> be like thoſe <hi>Mountains Solomon</hi> ſpeaks of, <hi>Moun<g ref="char:EOLhyphen"/>tains</hi> of <hi>Myrrh,</hi> and of <hi>Perfume</hi> to the Neigh<g ref="char:EOLhyphen"/>bouring Borders. You are elevated in the World, be as <hi>Lights</hi> and <hi>Watch-Towers,</hi> to give Comfort and Direction to the doubtful and unwary Traveller: The People are as the <hi>Sea,</hi> you the <hi>Winds</hi> that raiſe or depreſs them as you pleaſe; the People have Hearts of <hi>Wax</hi> or <hi>Clay,</hi> you under God the <hi>Workmen</hi> that give them their <hi>Figure</hi> and <hi>Proportion;</hi> and they are
+<pb n="19" facs="tcp:101274:13"/>in ſome meaſure made <hi>Veſſels to honour or diſho<g ref="char:EOLhyphen"/>nour,</hi> according to the Influences and Impreſ<g ref="char:EOLhyphen"/>ſions they receive from you.</p>
+            <p>Hence <hi>Seneca</hi> truly ſaid, That <hi>no Man erreth or is vertuous to himſelf,</hi> either of which ways he takes, he carries many with him.</p>
+            <p>It remaineth therefore that you be <hi>Holy,</hi> not to your ſelves only, but to the degrees of an <hi>Excellent Example.</hi>
+            </p>
+            <p>A <hi>Third</hi> Argument to perſwade you to a Good Example, <milestone type="tcpmilestone" unit="unspecified" n="III"/> is from that Force and Power you will have by your good Examples, to make Men Vertuous, and to be aſhamed of Sin. Many are the ways whereby Men may effectually recommend Vertue to others, by their own Practice, there being many things which cannot eaſily be expreſs'd by Words, or taught by Inſtructions, which a Precept hath not, but which are yet obſervable in the <hi>Life</hi> and <hi>Converſation</hi> of good Men, which inſinu<g ref="char:EOLhyphen"/>ate gently, and inſenſibly brings them on Ver<g ref="char:EOLhyphen"/>tue's ſide before they are aware, which provokes an <hi>Emulation</hi> in Men, and ſhames their ſloth; which relieves mens Modeſty, and preſſeth up<g ref="char:EOLhyphen"/>on Ingenuity; in a word, it recommends the Excellency, and demonſtrates the Neceſſity and
+<pb n="20" facs="tcp:101274:14"/>Poſſibility of Vertue; here lies the <hi>ſtrength</hi> and <hi>power</hi> of a <hi>Good Example:</hi> Out of theſe will I chooſe an Inſtance or two to repreſent it to you.</p>
+            <p>
+               <hi>Firſt,</hi> The force and power of Example lies much in this, that it relieves mens Modeſty, and gives them confidence to do that in Com<g ref="char:EOLhyphen"/>pany, which otherwiſe they would have de<g ref="char:EOLhyphen"/>clined, for fear of being <hi>Singular:</hi> Vertue it ſelf when it becomes ſingular, meets with few who have courage enough to live up to it; Men do, as 'twere, take Sanctuary in Vice, when it once appears to have all of its ſide.</p>
+            <p>St.
+<note place="margin">
+                  <hi>Confeſ.</hi> 2. <hi>c.</hi> 3.</note> 
+               <hi>Auſtin</hi> was extreamly troubled at this in himſelf, and 'twas one of the Evils he bewail'd in his <hi>Book of Confeſſions:</hi> He there tells us, that he did evil as others, not ſo much from an <hi>Appetite</hi> and <hi>Inclination</hi> to it, as not to be <hi>Singular;</hi> nay, it often happen'd, that he coun<g ref="char:EOLhyphen"/>terfeited the Evil he did not, doubting leſt by being innocent, he ſhould be accounted a Man of no worth; and fearful of being eſteemed <hi>Chaſte,</hi> leſt <hi>Chaſtity</hi> ſhould make him contemn'd in the World.</p>
+            <p>The truth is, Vertue loves not in <hi>young</hi> be<g ref="char:EOLhyphen"/>ginners to ſtand by it ſelf, 'tis thoſe only who
+<pb n="21" facs="tcp:101274:14"/>have been long and well accuſtomed to it, that dare be Vertuous by themſelves, it muſt be<g ref="char:EOLhyphen"/>come <hi>faſhionable</hi> before 'twill be univerſally followed; raiſe it up but a few Examples to give it countenance, and the <hi>Age</hi> will preſent<g ref="char:EOLhyphen"/>ly be Reformed.</p>
+            <p>
+               <hi>Secondly,</hi> The force of Example is ſeen by that <hi>Zeal</hi> and <hi>Emulation</hi> it enkindles in Men, and gives ſecret reproaches of ſloth to our Hearts, ſuch which provokes us to an <hi>Imitati<g ref="char:EOLhyphen"/>on</hi> of the beſt and greateſt Examples; 'tis an <hi>Emulation</hi> which makes us uneaſie to ſtay be<g ref="char:EOLhyphen"/>hind; whatever good we obſerve in any Man, we are impatient till we have overtaken him: 'Tis to this the World is indebted for all that Excellency of Spirit, that Improvement of Mind, which raiſes Men above the <hi>Ordinary Rank;</hi> whatever things are <hi>Excellent,</hi> whatever is <hi>Praiſe-worthy,</hi> 'tis this in great meaſure hath produc'd it, this hath finiſh'd it.</p>
+            <p>This is the Language of <hi>Emulation;</hi> Shall another of like Infirmities with my ſelf, be raiſed to an <hi>Illuſtrious Vertue,</hi> conſecrated to Poſterity by a laſting Fame, and ſhall I con<g ref="char:EOLhyphen"/>tinue an inglorious Life, plung'd in Miſery and Sin? Shall a <hi>Joſeph</hi> bravely reſiſt and overcome,
+<pb n="22" facs="tcp:101274:15"/>and ſhall I be bafled? Shall a <hi>Job</hi> be ſtript of all, and be content, and ſhall I be diſcompos'd? Shall an <hi>Abraham,</hi> a <hi>David,</hi> a St. <hi>Paul</hi> be Re<g ref="char:EOLhyphen"/>nown'd to future Ages, and ſhall my Memory dye with me? <hi>God</hi> hath given me Capacity, and hath not refrain'd from me the means of pleaſing him, I will therefore ſtrive to become as <hi>good,</hi> as <hi>commendable,</hi> as <hi>happy</hi> as any Man; this is the voice of <hi>Emulation,</hi> that mighty Paſſion.</p>
+            <p>'Twas therefore a very good <hi>Advice</hi> which <hi>Seneca</hi> hath left to the World,
+<note place="margin">Sence. Epiſt. 11.</note> that every one ſhould propoſe to himſelf the Example of ſome <hi>Wiſe</hi> and <hi>Vertuous</hi> Perſon, ſuch as <hi>Cato, Socra<g ref="char:EOLhyphen"/>tes, Plato,</hi> and the like, and imagine him to be preſent as a <hi>Witneſs</hi> to his Actions, and the <hi>Rule</hi> to conduct his Life by; but however ex<g ref="char:EOLhyphen"/>cellent the Advice was, yet they had none to propoſe as Examples, but who had great allays of Evil, and could be Exemplary but in very few things.
+<note place="margin">Senec. Ebrie<g ref="char:EOLhyphen"/>tas Catoni ob<g ref="char:EOLhyphen"/>jecta eſt.</note> 
+               <hi>Cato</hi> was a Wiſe Man, but by <hi>Day</hi> only, at <hi>Night</hi> he was reported to <hi>drink</hi> too <hi>freely; Plato</hi> was remark'd for <hi>Incontinency:</hi> So that the Advice ſeems rather reſerv'd for a <hi>Chriſtian People,</hi> among whom there cannot be ſuppoſed ſuch a degeneracy, but that we may be furniſh'd with many Precedents, whoſe Ver<g ref="char:EOLhyphen"/>tues,
+<pb n="23" facs="tcp:101274:15"/>as St. <hi>Paul</hi> ſaid of the <hi>Zeal</hi> and <hi>Charity</hi> of the <hi>Corinthians,</hi> may have <hi>provok'd very many.</hi> But eſpecially while we have before us the Life and Example of our <hi>Saviour,</hi> in which that ſingle Grace of <hi>Humility,</hi> in waſhing his Diſciples Feet, had ſo ſenſibly wrought upon the Spirit of one who was attentively conſider<g ref="char:EOLhyphen"/>ing it, that he cry'd out, <hi>Thou haſt overcome, O Lord; thou haſt overcome the Pride and Haugh<g ref="char:EOLhyphen"/>tineſs of my Heart; I am conquer'd by this ſingle act of thy Self-denial, and yield up my ſelf thy Servant and Diſciple.</hi>
+            </p>
+            <p>The <hi>Fourth</hi> and laſt Argument to perſwade you to this Duty, <milestone type="tcpmilestone" unit="unspecified" n="IV"/> is from the Miſchiefs of an ill Example, both with relation to Mens ſelves and others; and this is that which is the moſt unplea<g ref="char:EOLhyphen"/>ſing part of the <hi>Argument,</hi> and I would willingly be perſwaded, that what I have already ſaid of its <hi>Excellency,</hi> and its <hi>Obligation</hi> upon all Men to ſhew it forth, will prevail with all <hi>ingenuous</hi> Minds, rather than to work upon their fears, by ſhewing the danger of an ill Example; ſo that I promiſe my ſelf that 'tis rather to per<g ref="char:EOLhyphen"/>fect and compleat the Subject, than that I find it needful to preſs you with Arguments of this kind.</p>
+            <pb n="24" facs="tcp:101274:16"/>
+            <p>Here then 'twould be eaſie to repreſent to you the many Evils of ill Examples; Men that are Exemplary in Vice, they give ſin ſome kind of <hi>Reputation,</hi> and do, as much as in them lies, recommend it to others.</p>
+            <p>Again, they not only become miſchievous to the preſent Age, but it extends it ſelf to Poſte<g ref="char:EOLhyphen"/>rity, and the Malignity ſpreads it ſelf to after<g ref="char:EOLhyphen"/>ages.</p>
+            <p>From both which 'tis obvious to conſider that Men are not hereby only <hi>perſonally</hi> culpable, and to anſwer for themſelves only, but ſuch Men muſt anſwer to God for the ſins of thoſe they live with, and of thoſe that come after them, which have been occaſioned through their ill Examples.</p>
+            <p>The <hi>Jewiſh Law</hi> hath in many places very ex<g ref="char:EOLhyphen"/>cellently ſhewed us the equity of this dealing, <hi>Exod.</hi> 21.33, 34. <hi>If a Man ſhall open a Pit, or if a Man ſhall dig a Pit, and not cover it, and an Ox or an Aſs fall therein, the Owner of the Pit ſhall make it good;</hi> and how much more is a Man concern'd for his Brother, to prevent his falling into Ruine? While by our ſins that are open and publick, we lay open a Gulf of <hi>Scandal</hi> and <hi>Cor<g ref="char:EOLhyphen"/>ruption,</hi> and if he falls into the Snare, we muſt give an Account to God for that <hi>Soul</hi> which was <hi>Redeem'd</hi> by the <hi>price</hi> of his <hi>Blood.</hi>
+            </p>
+            <pb n="25" facs="tcp:101274:16"/>
+            <p>Again, by the ſame Law of Equity in the 22 of <hi>Exodus, If a man hath cauſed but one ſmall ſpark of fire to fly out, if it happen to burn the fruitful Fields, and conſume his Neighbours Corn,</hi> he is bound to make ſatisfaction; and how much more ſhall the evil Actions of wicked Men, which <hi>enkindle</hi> a <hi>fire</hi> of Vice and Calamity about their Neighbours, be imputed to them? And what Satisfaction can be made for ſuch a Damage?</p>
+            <p>So that Religion can never thrive in the World, till Men are convinced that 'tis not the work of a few particular Men, but the Common concern of every one, that there may be none to propagate and ſupport an evil Action; if there be never ſo few to countenance it, it quick<g ref="char:EOLhyphen"/>ly gathers ſtrength, and fills the place. 'Tis as <hi>Leaven,</hi> a little whereof leaventh the whole lump; and 'twas the removing all ſin from us, which was ſignified by that ſtrict Command un<g ref="char:EOLhyphen"/>der the Law,
+<note place="margin">Exod. 12.15</note> of <hi>putting away the leaven out of their houſes,</hi> and which St. <hi>Paul</hi> alludes to, when he ſays, <hi>Purge out therefore the old leaven,</hi>
+               <note place="margin">1 Cor. 3.7.</note> 
+               <hi>that ye may be a new lump;</hi> of the ſame Nature is ſin. Or 'tis as a <hi>Contagion,</hi> where one <hi>diſtem<g ref="char:EOLhyphen"/>per'd</hi> Perſon is enough to infect a multitude of ſound and healthful Men; and 'tis the ſame Charity to Mankind, not to live viciouſly in
+<pb n="26" facs="tcp:101274:17"/>the Eyes of thoſe about us, as 'tis not to carry an Infection into our Neighbours Family. And I am ſure that Men can never be ſecure of their Vertue, while they converſe in the World, nor can ever be out of danger of ſuffering damage by the ſins of others, till all Men ſhall think themſelves oblig'd to live vertuouſly in the Eyes of the World, and that, even from a Principle of Charity to the Souls of Men; and till they ſhall profeſs the ſame care and concern for each other, as every Man doth for his Neighbours Beaſt, and be as ready to preſerve him from the Snares of Sin, as to deliver the other out of the Pit.</p>
+            <p>I will not ſay more of the Evils and Miſchief of a bad Example, but will rather chooſe that what hath hitherto been ſpoken in general up<g ref="char:EOLhyphen"/>on this Subject, may now in the Concluſion be rendred more uſeful, by ſhewing you the par<g ref="char:EOLhyphen"/>ticular Vertues you muſt be <hi>Exemplary</hi> in.</p>
+            <p>'Tis not all Vertues that are outwardly to be performed in the Eyes of the World; ſome there are which have an additional value for their ſecreſie. Let a Veil be drawn over our Vertues in our Retirements, and our Private Devotions known only to God and our own Hearts; let not a <hi>Trumpet be blown</hi> when we
+<pb n="27" facs="tcp:101274:17"/>diſpenſe our <hi>Charities,</hi>
+               <note place="margin">Matth. 6.3.</note> nor <hi>let the left hand know what the other doth.</hi> Nay, even thoſe which we are required to perform publickly, and to be exemplary in, let there in theſe be nothing of Vanity and Oſtentation; theſe are the Qualifi<g ref="char:EOLhyphen"/>cations that muſt attend our Vertues.</p>
+            <p>But how ſhall I be able to recount to you the Vertues themſelves that we are to be Exemplary in? Rather will I point out to you ſome of thoſe Circumſtances and Conditions of Life, to which 'twill be eaſie for every Mans Obſervation to reduce moſt of the Chriſtian Vertues to. And they are theſe.</p>
+            <p n="1">1. An Exemplary Vertue will be required in all our Converſation with each other.</p>
+            <p n="2">2. In living up to ſuch Vertues that are op<g ref="char:EOLhyphen"/>pos'd to the popular Vices of the Age.</p>
+            <p n="3">3. In ſuch that concern our Publick Devo<g ref="char:EOLhyphen"/>tions.</p>
+            <p>And from theſe three General Heads will I inſtance only in three Duties, which we ſhould cauſe to ſhine forth in an Exemplary Life.</p>
+            <p>
+               <hi>Firſt,</hi> Charity and Mutual Affection in our Converſation.</p>
+            <p>
+               <hi>Secondly,</hi> Purity in our Actions, as they op<g ref="char:EOLhyphen"/>poſe the Vices of the Age.</p>
+            <pb n="28" facs="tcp:101274:18"/>
+            <p>
+               <hi>Thirdly,</hi> And Unity in our Devotions.</p>
+            <p>And <hi>firſt</hi> of all of our Charity and Mutual Affection towards each other, and this I think my ſelf the rather obliged to ſpeak to, inaſmuch as there never was a time when greater Bleſſings might be hop'd for from it; what laſting <hi>Foun<g ref="char:EOLhyphen"/>dations</hi> of <hi>Peace,</hi> and continued <hi>Proſperities</hi> would it promiſe us, could we but nouriſh up this Grace to its perfect growth?</p>
+            <p>But alas! if we fall again into <hi>Parties</hi> and <hi>Di<g ref="char:EOLhyphen"/>viſions,</hi> we deliver up our ſtrength, nor can any ſucceſs attend our Endeavours; 'tis this there<g ref="char:EOLhyphen"/>fore which our Enemies promote and hope for, and promiſe themſelves more by our <hi>Diviſions,</hi> than their <hi>Armies;</hi> 'tis this they labour at even at this time, endeavouring to diſ-unite us, by ſtirring up a <hi>falſe</hi> and miſchievous <hi>Zeal,</hi> as may keep up thoſe differences which have hitherto ſo lamentably divided us, and by ſuggeſting Prejudices and Animoſities betwixt us. And ſo far have they prevailed upon the <hi>weakneſs</hi> and <hi>ill Tempers</hi> of many, that 'tis a truth which I cannot without trouble relate to you, and which in the few <hi>years</hi> and <hi>changes</hi> I have ſeen, ſeems now to have paſt into the <hi>Character</hi> of our <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> that nothing but great <hi>Fears</hi> and common
+<pb n="29" facs="tcp:101274:18"/>
+               <hi>Calamities</hi> can make us Friends: When we are at eaſe, we ſeem then to have only leiſure to ſhew Unkindneſſes and Revenges upon each other, the memory of Injuries returns with the power of requiting them, and when God ceaſes to afflict us, we create Quarrels and Trouble to each other.</p>
+            <p>Whereas could Men but forget <hi>Injuries,</hi> and <hi>forgive</hi> each other; could Men but lay aſide their <hi>heats,</hi> and heartily <hi>embrace</hi> each other; could Men but lay aſide <hi>private Intereſts,</hi> and mutually conſpire towards a <hi>Publick Good,</hi> what Foundations might be now laid for preſent and future Bleſſings? Such that after-ages may build Peace and Happineſs upon them; and we may with God's Providence, as ſecurely transfer <hi>Truth,</hi> and <hi>Righteouſneſs,</hi> and <hi>Peace,</hi> even upon <hi>Chil<g ref="char:EOLhyphen"/>dren's Children,</hi> as the outward Comforts of Riches and a good Eſtate. But,</p>
+            <p>A <hi>Second</hi> Vertue that we muſt be Exempla<g ref="char:EOLhyphen"/>ry in, is <hi>Purity</hi> in our Actions, as they oppoſe the <hi>popular</hi> Vices of the <hi>Age.</hi> And here 'twill not be enough to be free from all ſuch ſins our ſelves, but 'twill lie upon all of us to endeavour our utmoſt to diſcourage and diſcountenance ſuch ſins in others; for there is this unhappi<g ref="char:EOLhyphen"/>neſs
+<pb n="30" facs="tcp:101274:19"/>in theſe ſins, that when they once appear common, and almoſt univerſal, they beget a kind of Reputation, eſpecially if dreſt up with <hi>Ho<g ref="char:EOLhyphen"/>nour,</hi> and ſet off with the Advantages of <hi>For<g ref="char:EOLhyphen"/>tune;</hi> for it often happens that the Actions which in a mean Fortune are juſtly reputed ſins, become <hi>faſhionable</hi> in others and are <hi>imitated,</hi> reſembling herein the <hi>guilt</hi> of <hi>falſe Coyners,</hi> they impreſs ſin with the ſtamp of Vertue, and it im<g ref="char:EOLhyphen"/>poſes upon thouſands for true worth; and there<g ref="char:EOLhyphen"/>fore the ſureſt way of bringing <hi>popular ſins</hi> in<g ref="char:EOLhyphen"/>to neglect and diſgrace, is to take off that Diſ<g ref="char:EOLhyphen"/>guiſe, and miſtaken Opinion whereby they pre<g ref="char:EOLhyphen"/>vail among Men, and to look upon them as mean, and diſhonourable, and reproachful, and then they will quickly become leſs dange<g ref="char:EOLhyphen"/>rous.</p>
+            <p>Let but all good Men agree together to ex<g ref="char:EOLhyphen"/>preſs a <hi>Zeal</hi> and <hi>Indignation</hi> againſt them, and all the Intereſt that wicked Men have in the World, will never be able to ſupport them.</p>
+            <p>But 'tis with ſome ſatisfaction that I decline ſpeaking further upon this Particular; inaſmuch as I am not deſtitute of hope, which perſwades me, that this work is already begun.</p>
+            <p>I conclude therefore with a</p>
+            <pb n="31" facs="tcp:101274:19"/>
+            <p>
+               <hi>Third</hi> Vertue we are to be Exemplary in, and 'tis <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in our <hi>Devotions,</hi> and in the <hi>Worſhip</hi> and <hi>Communion</hi> of our <hi>Church,</hi> that ſo if there be any, that have had miſtaken Thoughts and Opinions of us, and have thereby been miſled into a <hi>Cauſeleſs Separation</hi> from us; let ſuch be perſwaded, that we have not been wanting, in giving all manner of Teſtimonies to the World, that might convince them of our Sincerity, and have as well by <hi>Affectionate Addreſſes,</hi> as un<g ref="char:EOLhyphen"/>anſwerable <hi>Arguments,</hi> endeavour'd to win them to our <hi>Communion,</hi> and ſhew'd them the Reaſo<g ref="char:EOLhyphen"/>nableneſs of our <hi>Service;</hi> and that they ought now more eſpecially to conſider of the neceſſity of an Union with us. Since 'tis an Argument wherein <hi>Divine Providence</hi> ſeems to concur with me, it being the time deſign'd by Heaven for an <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with each other.</p>
+            <p>And if I may beg leave to offer any thing of Humane Reaſon, when Heaven ſpeaks in ſo vi<g ref="char:EOLhyphen"/>ſible a manner, let me upon this one account intreat your concurrence in an <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>Worſhip,</hi> inaſmuch as 'tis our <hi>Diviſions</hi> in this one thing, that hath rais'd all that ſtorm of Reproaches from our Adverſaries againſt the <hi>Reformed Church;</hi> they know very well that 'tis not mat<g ref="char:EOLhyphen"/>ters of <hi>Faith</hi> which we diſagree about, we are
+<pb n="32" facs="tcp:101274:20"/>all of us much more <hi>united</hi> in <hi>Faith</hi> than they are, but there being ſo many different <hi>Commu<g ref="char:EOLhyphen"/>nions</hi> among <hi>Proteſtants,</hi> who are all one in the <hi>Subſtance</hi> of <hi>Faith.</hi> Hence they raiſe Arguments that there are ſo many <hi>Differences</hi> among us, that there can be no <hi>truth</hi> or <hi>certainty</hi> with any of us; when alas! were thoſe <hi>Romaniſts,</hi> who are ſo miſerably divided in matters of their <hi>Faith,</hi> but ſeparated in their <hi>Worſhip</hi> too, what a number of <hi>Conventicles</hi> muſt there be among them? As many as there are different <hi>Orders</hi> and <hi>Monaſteries; Nation</hi> would ſeparate from <hi>Nation, Italy</hi> from <hi>France,</hi> and each Religious <hi>Order</hi> from one another; the <hi>Moliniſts</hi> from the <hi>Janſeniſts,</hi> the <hi>Scotiſts</hi> from the <hi>Thomiſts,</hi> the <hi>Dominicans</hi> from the <hi>Franciſcans,</hi> and all of them Univerſally from the <hi>Jeſuiſts.</hi>
+            </p>
+            <p>But the truth is, tho' they are beyond diſpute much more divided in their <hi>Faith</hi> than we are, yet they have the good Fortune to agree in <hi>Worſhip,</hi> and ſo they ſeem to unthinking Men to be at good <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> with each other. That is, they all agree to Worſhip the <hi>Hoſt,</hi> they all agree to Pray in an <hi>unknown Tongue,</hi> they all agree to Pray to <hi>Saints,</hi> and <hi>Angels,</hi> and the <hi>Virgin Mary,</hi> and to Pray for the <hi>Dead,</hi> they all concenter in this <hi>Worſhip;</hi> I do aſſure you I
+<pb n="33" facs="tcp:101274:20"/>have told you the moſt ſpecious pretences for their <hi>
+                  <g ref="char:V">Ʋ</g>nity;</hi> and if ſuch an Agreement with each other as this be their praiſe, I am ſure the <hi>Proteſtants</hi> on all ſides joyn in a much more <hi>commendable <g ref="char:V">Ʋ</g>nity</hi> againſt it, and do all with one Heart, and with one Mouth pray to God, that from ſuch a <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in <hi>Worſhip</hi> he would <hi>deliver</hi> us.</p>
+            <p>What remains therefore towards an <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> among <hi>Proteſtants</hi> but this? That whatever parti<g ref="char:EOLhyphen"/>cular <hi>Opinions</hi> any of us may have touching Re<g ref="char:EOLhyphen"/>ligion, yet that mens Zeal for theſe ſhould not be an hindrance from their concurring to pre<g ref="char:EOLhyphen"/>ſerve and ſecure thoſe <hi>many</hi> and <hi>greater</hi> things in which all of us agree.</p>
+            <p>All ſides of <hi>Proteſtants</hi> find the <hi>ſubſtance</hi> of their <hi>Faith</hi> in the <hi>Eſtabliſh'd Church,</hi> each of them agree in this, they all concenter here, more than in any one <hi>Society</hi> beſides; and if where<g ref="char:EOLhyphen"/>in they are <hi>ſingular</hi> in their <hi>Opinions,</hi> they find a due <hi>Condeſcention</hi> and <hi>Liberty</hi> to profeſs them, and cannot otherwiſe be ſecure of this <hi>Temper,</hi> than by the laſting ſettlement of the <hi>Church,</hi> which as a Mother gives common Security to every ſide: Why then ſhould not all ſides find it their Intereſt zealouſly to concur to give ſo<g ref="char:EOLhyphen"/>lid ſettlement to that, which is but another
+<pb n="34" facs="tcp:101274:21"/>word for their own Security and Self-preſerva<g ref="char:EOLhyphen"/>tion, whilſt if they break down theſe Banks, they are overflow'd by the Common Enemy, and will find no place for their Foot to reſt in.</p>
+            <p>And now to conclude all in one word,</p>
+            <p>Let me provoke you to ſuch a <hi>Zeal</hi> in the Concerns of Religion, as may not be con<g ref="char:EOLhyphen"/>fin'd to thoſe private Chriſtian Duties, that have reſpect only to God and your own hearts: ſuch which concern the <hi>fervours</hi> of your <hi>De<g ref="char:EOLhyphen"/>votion,</hi> the importunity of your <hi>Prayers,</hi> a great concern for your <hi>Innocency,</hi> great care and ſtrictneſs over your <hi>Lives,</hi> great forward<g ref="char:EOLhyphen"/>neſs in your private <hi>Charities,</hi> and the like; but let your <hi>Zeal</hi> extend it ſelf to the <hi>Pub<g ref="char:EOLhyphen"/>lick,</hi> let its influences promote the good of <hi>Religion,</hi> and the <hi>Churches Peace</hi> and Wel<g ref="char:EOLhyphen"/>fare.</p>
+            <p>Your Stations and Circumſtances in the World give you great Opportunities, and by your ſincere Endeavours you will wonderfully contribute towards it. The Work is great, and calls for your help, and a prudent and well-govern'd <hi>Zeal</hi> will not fail of its good Effects; 'tis ſuch a <hi>Zeal</hi> which will give great
+<pb n="35" facs="tcp:101274:21"/>
+               <hi>Temper</hi> in all <hi>Publick Affairs</hi> and <hi>Counſels;</hi> 'tis ſuch a <hi>Zeal</hi> which will render you very <hi>Ex<g ref="char:EOLhyphen"/>emplary</hi> to thoſe about you, the moſt power<g ref="char:EOLhyphen"/>ful Argument to invite even your Adverſaries to be like you, and to approve of you; nay, rather to render you without Adverſary in the World; for to the <hi>good Man,</hi> to the <hi>Peaceful,</hi> the <hi>Charitable,</hi> the <hi>Affectionate,</hi> and <hi>well-tem<g ref="char:EOLhyphen"/>per'd</hi> Chriſtian no man is an Enemy.</p>
+            <p>Let me beg the freedom therefore to preſs this upon you, which I eſteem ſo uſeful an Exhortation, for I would not willingly ſpend one Minute in this place, without offering ſomething that (through God's Aſſiſtance) may prove to your Advantage, and where I muſt go down with a Reproach to my own Heart, were I conſcious to my ſelf of not having uſed my utmoſt endeavour towards it. To you of this <hi>Audience,</hi> to whom this part of the Application is moſt ſuited, who are more eſpecially concern'd, and whoſe obſer<g ref="char:EOLhyphen"/>ving it may prove of greateſt Conſequence to <hi>Publick Good.</hi> Conſider, I beſeech you, the Opportunities and Advantages you now have of doing this good, from your <hi>Circumſtances</hi> and <hi>Fortunes,</hi> from your <hi>Stations,</hi> and from the <hi>Reputation</hi> you have in the World; Sa<g ref="char:EOLhyphen"/>crifice,
+<pb n="36" facs="tcp:101274:22" rendition="simple:additions"/>I beſeech you, the increaſe of theſe <hi>Talents</hi> to your God, and for the benefit of his <hi>Church</hi> and <hi>People.</hi> It may be in your way to promote a good will among Men, to ap<g ref="char:EOLhyphen"/>peaſe <hi>Diſſenſions,</hi> to prevent <hi>Diſguſts</hi> among each other, to promote a good Underſtanding among Men. By theſe you will become <hi>Pub<g ref="char:EOLhyphen"/>lick Bleſſings,</hi> and by theſe Fountains of Love and Peace within your own Hearts, and which flow from all your Actions, your Converſations, and Counſels, you will give a Fruitfulneſs of Peace to all the Neighbouring Borders, and ſhall become like the <hi>River David</hi> ſpeaks of, the <hi>Streams whereof ſhall make glad the City of God,</hi>
+               <note place="margin">Pſal. 46.4.</note> 
+               <hi>the Holy place of the moſt High:</hi> Which God of his infinite Mercy grant, for the ſake of Chriſt Jeſus our Saviour, to whom be Honour and Glory for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
